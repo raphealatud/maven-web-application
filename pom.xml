@@ -96,8 +96,8 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>http://52.90.193.1:8081/repository/paypal-release/</name>
-	      <url>http://44.206.244.104:8081/repository/boa-relases/</url>
+	       <name>Landmark Technologies Releases Nexus Repository </name>
+	      <url>http://52.90.193.1:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
