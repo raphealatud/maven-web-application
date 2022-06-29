@@ -96,7 +96,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	     http://18.209.15.4:8081/repository/Bank-Of-America-Snapshot/
+	     </url>http://18.209.15.4:8081/repository/Bank-Of-America-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
