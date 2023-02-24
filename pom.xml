@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://44.204.69.195:4000/content/repositories/ebay/</url>
+	      <url>http://http://34.228.7.164:8081/repository/tesla-paypla-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.83.155:4000/content/repositories/ebay2/</url>
+	      <url>http://http://34.228.7.164:8081/repository/tesla-paypal/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
