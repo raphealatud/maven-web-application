@@ -96,7 +96,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://34.228.7.164:8081/repository/tesla-paypla-release/</url>
+	      <url>http://http://http://34.228.7.164:8081/repository/paypal-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
